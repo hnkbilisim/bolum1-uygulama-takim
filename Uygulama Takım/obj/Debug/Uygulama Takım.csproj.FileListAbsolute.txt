@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\HAYRI\Formlar\Uygulama Takım\Uygulama Takım\bin\Debug\Uygulama Takım.exe.config
+C:\Users\User\Desktop\KORUMASIZ\HAYRI\Formlar\Uygulama Takım\Uygulama Takım\bin\Debug\Uygulama Takım.exe
+C:\Users\User\Desktop\KORUMASIZ\HAYRI\Formlar\Uygulama Takım\Uygulama Takım\bin\Debug\Uygulama Takım.pdb
+C:\Users\User\Desktop\KORUMASIZ\HAYRI\Formlar\Uygulama Takım\Uygulama Takım\obj\Debug\Uygulama Takım.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\HAYRI\Formlar\Uygulama Takım\Uygulama Takım\obj\Debug\Uygulama Takım.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\HAYRI\Formlar\Uygulama Takım\Uygulama Takım\obj\Debug\Uygulama_Takım.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\HAYRI\Formlar\Uygulama Takım\Uygulama Takım\obj\Debug\Uygulama_Takım.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\HAYRI\Formlar\Uygulama Takım\Uygulama Takım\obj\Debug\Uygulama Takım.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\HAYRI\Formlar\Uygulama Takım\Uygulama Takım\obj\Debug\Uygulama Takım.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\HAYRI\Formlar\Uygulama Takım\Uygulama Takım\obj\Debug\Uygulama Takım.exe
+C:\Users\User\Desktop\KORUMASIZ\HAYRI\Formlar\Uygulama Takım\Uygulama Takım\obj\Debug\Uygulama Takım.pdb
